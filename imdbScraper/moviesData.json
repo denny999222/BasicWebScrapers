@@ -1,0 +1,41 @@
+[
+    {
+        "title": "The Silence of the Lambs             ",
+        "rating": "8.6",
+        "popularity": "385      ( 38)",
+        "img1": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "totalRating": "1,179,217",
+        "releaseDate": "14 February 1991 (USA)",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Avengers: Endgame             ",
+        "rating": "8.5",
+        "popularity": "45      ( 1)",
+        "img1": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "totalRating": "635,227",
+        "releaseDate": "26 April 2019 (USA)",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Get Out             ",
+        "rating": "7.7",
+        "popularity": "263      ( 50)",
+        "img1": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "totalRating": "436,325",
+        "releaseDate": "24 February 2017 (USA)",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ]
+    }
+]
