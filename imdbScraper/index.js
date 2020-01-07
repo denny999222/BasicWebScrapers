@@ -3,7 +3,6 @@ const requestPromise = require("request-promise");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const { Parser } = require('json2csv');
-
 const request = require('request');
 
 
